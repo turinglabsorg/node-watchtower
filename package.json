@@ -1,0 +1,23 @@
+{
+  "name": "watchtower",
+  "version": "1.0.0",
+  "description": "Make sure your node is up and running",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/turinglabsorg/node-watchtower.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/turinglabsorg/node-watchtower/issues"
+  },
+  "homepage": "https://github.com/turinglabsorg/node-watchtower#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "request": "^2.88.2"
+  }
+}
